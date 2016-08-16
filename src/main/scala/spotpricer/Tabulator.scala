@@ -1,4 +1,4 @@
-package spotPrice
+package spotpricer
 
 object Tabulator {
   def format(table: Seq[Seq[Any]]) = table match {

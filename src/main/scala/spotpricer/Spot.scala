@@ -1,4 +1,4 @@
-package spotPrice
+package spotpricer
 
 import java.io.Serializable
 import java.time.{Duration, OffsetDateTime}
